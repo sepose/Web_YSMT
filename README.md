@@ -1,2 +1,2 @@
 # web_YSMT
-YSMT_test
+YSMT_테스트용
