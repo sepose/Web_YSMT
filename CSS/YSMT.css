@@ -1,18 +1,18 @@
-.top { width: 1900px; height: 50px; background-color: #252525; color: white; font-size: 2rem; margin: 0 auto;}
+.top { width: 1700px; height: 50px; background-color: #252525; color: white; font-size: 2rem; margin: 0 auto;}
 .top b a { color: #FFFFFF; text-decoration-line: none; margin-left: 50px; font-size: 1rem;}
 .top a b { color: #FFFFFF; text-decoration-line: none; margin-left: 800px; font-size: 1rem;}
 .top b { margin-left: 3%; margin-top: 1%; } 
-.belowtop { width: 1900px; height: 25px; background-color: #FFFFFF; color: white; margin: 0 auto; text-align: center; }
-.belowtop_top { width: 1900px; height: 15px; background-color: #FFFFFF margin 0 auto; }
+.belowtop { width: 1700px; height: 25px; background-color: #FFFFFF; color: white; margin: 0 auto; text-align: center; }
+.belowtop_top { width: 1700px; height: 15px; background-color: #FFFFFF margin 0 auto; }
 .belowtop a { text-decoration-line: none; font-weight: bold; font-size: 22px; margin-right: 75px;
               margin-left: 75px; margin-top: 80%; }
-.belowtop_low { width: 1900px; height: 15px; background-color: #FFFFFF margin 0 auto; }
-.alert { width: 1900px; height: 30px; margin: 0 auto; background-color: gray; color: white; font-size: 1.05rem; }
-.below { width: 1900px; height: 500px; background-color: #FFFFF1; color: black; margin: 0 auto; }
-.bottom_top { width: 1900px; height: 15px; background-color: #252525; color white; margin: 0 auto; color: white;}
-.bottom { width: 1900px; height: 85px; background-color: #252525; color white; margin: 0 auto; color: white;}
+.belowtop_low { width: 1700px; height: 15px; background-color: #FFFFFF margin 0 auto; }
+.alert { width: 1700px; height: 30px; margin: 0 auto; background-color: gray; color: white; font-size: 1.05rem; }
+.below { width: 1700px; height: 500px; background-color: #FFFFF1; color: black; margin: 0 auto; }
+.bottom_top { width: 1700px; height: 15px; background-color: #252525; color white; margin: 0 auto; color: white;}
+.bottom { width: 1700px; height: 85px; background-color: #252525; color white; margin: 0 auto; color: white;}
 
 /* 인포메이션이랑 메인페이지 공용 */
 
-.topbar { width: 1900px; height: 10px; background-color: #252525; margin: 0 auto; }
+.topbar { width: 1700px; height: 10px; background-color: #252525; margin: 0 auto; }
 /* 인포메이션 페이지 전용 */
